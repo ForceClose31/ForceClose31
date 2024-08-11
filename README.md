@@ -2,8 +2,9 @@
 <p align="center">I'm a Website developer, Mobile developer, and Cyber Security.</p>
 
 <h1 align="center">GitHub Trophies</h1>
+
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ForceClose31&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ForceClose31&title=MultiLanguage,Commits,Followers,Repositories,Experience,PullRequest&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4"/>
 </p>
 
 <h3 align="center">Tech Stack</h3>
