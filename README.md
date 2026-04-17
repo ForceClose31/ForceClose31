@@ -4,7 +4,7 @@
 <h1 align="center">GitHub Trophies</h1>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ForceClose31&title=MultiLanguage,Commits,Followers,Repositories,Experience,PullRequest&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4"/>
+  <img src="https://github-trophies.vercel.app/?username=ForceClose31&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=tokyonight&column=4&no-frame=false&no-bg=false&margin-w=4"/>
 </p>
 
 <h3 align="center">Tech Stack</h3>
