@@ -1,5 +1,5 @@
 <h1 align="center">About Me</h1>
-<p align="center">I'm a Developer.</p>
+<p align="center">I'm a Fullstack Developer.</p>
 
 <h1 align="center">GitHub Trophies</h1>
 
